@@ -4,7 +4,7 @@
     { "codigo": 24221, "nome": "Álgebra", "pai": null },
     { "codigo": 24223, "nome": "Geometria", "pai": null },
     { "codigo": 24225, "nome": "Grandezas e Medidas", "pai": null },
-    { "codigo": 24229, "nome": "Probabilidade e estatística", "pai": null },
+    { "codigo": 24229, "nome": "Probabilidade e estatistica", "pai": null },
 
     { "codigo": 74268, "nome": "(EF07MA02) Resolver e elaborar problemas que envolvam porcentagens", "pai": 24227 },
     { "codigo": 74272, "nome": "(EF07MA03) Comparar e ordenar números inteiros", "pai": 24227 },
