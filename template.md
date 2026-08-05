@@ -11,6 +11,6 @@
 | 20/02/2026 | Números | (EF07MA04)<br>(EJA6MA02SMAO) | Números inteiros | Operações com números inteiros (multiplicação, divisão) |
 | 23/02/2026 | Números | (EF07MA04)<br>(EJA6MA02SMAO) | Números inteiros | Operações com números inteiros (potenciação) |
 | 23/02/2026 | Números | (EF07MA04)<br>(EJA6MA02SMAO) | Números inteiros | Operações com números inteiros (potenciação) |
-| 25/02/2026 | Números | (EF07MA06) | Números inteiros | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
+| 25/02/2026 | Números | (EF0dfgdfg7MA06) | Números inteiros | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
 | 26/02/2026 | Números | (EF07MA06)<br>(EJA6MA03SMAO) | Números inteiros | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
 | 27/02/2026 | Números | (EF07MA06)<br>(EJA6MA03SMAO) | Números inteiros | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
