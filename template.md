@@ -1,94 +1,98 @@
-| Data  | Unidade temática | Habilidade | Objeto de conhecimento | Caixa de texto                                                                                                                                        |
-| ----- | ---------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 05/02 | Números          | (EF07MA03) | Números inteiros       | Introdução aos números inteiros: conceito, origem, representação em situações do cotidiano e identificação de números positivos, negativos e do zero. |
-| 06/02 | Números          | (EF07MA03) | Números inteiros       | Representação dos números inteiros na reta numérica, comparação, leitura e localização de pontos.                                                     |
-| 09/02 | Números          | (EF07MA03) | Números inteiros       | Comparação, ordenação e associação dos números inteiros à reta numérica por meio de atividades práticas e resolução de problemas.                     |
-| 11/02 | Números          | (EF07MA04) | Números inteiros       | Adição e subtração de números inteiros utilizando regras de sinais e resolução de problemas contextualizados.                                         |
-| 19/02 | Números          | (EF07MA04) | Números inteiros       | Multiplicação e divisão de números inteiros, propriedades e aplicação em situações-problema.                                                          |
-| 23/02 | Números          | (EF07MA04) | Números inteiros       | Potenciação de números inteiros: conceito, cálculo de potências e propriedades básicas.                                                               |
-| 25/02 | Números          | (EF07MA06) | Números Racionais      | Conceito de fração e seus diferentes significados: parte de um todo, quociente, razão e operador em situações do cotidiano.                           |
-| 02/03 | Números          | (EF07MA06) | Números Racionais      | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
-| 02/03 | Números          | (EF07MA06) | Números Racionais      | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
-| 04/03 | Números          | (EF07MA06) | Números Racionais      | Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador. |
-| 05/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 06/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 09/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 09/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 11/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 12/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 13/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 16/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 16/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 18/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 19/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Cálculo do termo desconhecido.                                                  |
-| 20/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Cálculo do termo desconhecido.                                                  |
-| 23/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 23/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 25/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 26/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 27/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 30/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 30/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
-| 01/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 02/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 06/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 06/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 08/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 09/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 10/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 13/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 13/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 15/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 16/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 17/04 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Resolvendo equações do 1º grau em situações de multiplicação e divisão.         |
-| 22/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Relações entre os ângulos formados por retas paralelas cortadas por uma transversal. |
-| 23/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Estudo dos ângulos correspondentes e sua relação de igualdade. |
-| 24/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Análise dos ângulos alternos internos e demonstração de sua congruência. |
-| 27/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Estudo dos ângulos alternos externos e suas propriedades. |
-| 27/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Compreensão dos ângulos colaterais (consecutivos) internos e da soma de 180°. |
-| 29/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Compreensão dos ângulos colaterais (consecutivos) externos e da relação suplementar. |
-| 30/04 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Aplicação das propriedades dos ângulos para determinar medidas desconhecidas. |
-| 04/05 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Resolução de problemas envolvendo relações entre ângulos em retas paralelas cortadas por uma transversal. |
-| 04/05 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Desenvolvimento do raciocínio geométrico por meio da comparação entre diferentes pares de ângulos. |
-| 06/05 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Utilização da nomenclatura correta dos pares de ângulos (correspondentes, alternos e colaterais). |
-| 07/05 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Interpretação de situações geométricas e validação das relações angulares utilizando as propriedades das retas paralelas. |
-| 08/05 | Geometria        | (EF07MA23) |  Ângulos formados por retas paralelas intersectadas por uma transversal | Identificação de retas paralelas e de uma reta transversal em diferentes figuras geométricas. |
-| 11/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos externos de polígonos regulares.                                              |
-| 11/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos externos de polígonos regulares.                                              |
-| 13/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos externos de polígonos regulares.                                              |
-| 14/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos internos de polígonos regulares.                                              |
-| 15/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos internos de polígonos regulares.                                              |
-| 18/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 20/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 21/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 22/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 25/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 25/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos – construindo mosaicos e ladrilhamentos                         |
-| 27/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos e a confecção de ferramentas e peças mecânicas                |
-| 28/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos e a confecção de ferramentas e peças mecânicas                |
-| 29/05 | Geometria        | (EF07MA27) | Polígonos Regulares    | Ângulos em polígonos e a confecção de ferramentas e peças mecânicas                |
-| 01/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade direta.                                |
-| 01/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade direta.                                |
-| 03/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade direta.                                |
-| 08/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade inversa.                               |
-| 08/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade inversa.                               |
-| 10/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade inversa.                               |
-| 11/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade inversa.                               |
-| 12/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Proporcionalidade inversa.                               |
-| 15/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 15/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 17/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 18/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 19/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 22/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 22/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 24/06 | Grandezas e Medidas | (EF07MA17) | Grandezas diretamente proporcionais e inversamente proporcionais. Áreas de figuras Planas       | Identificar regra de três simples em situações diversas. |
-| 06/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Mãos à obra: construindo Gráficos de setores      |
-| 06/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Mãos à obra: construindo Gráficos de setores      |
-| 08/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Mãos à obra: construindo Gráficos de setores      |
-| 09/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Mãos à obra: construindo Gráficos de setores      |
-| 10/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Equívocos e incongruências em Gráficos de setores |
-| 13/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Equívocos e incongruências em Gráficos de setores |
-| 13/07 | Probabilidade e Estatística | (EF07MA37) | Gráficos de setores  | Equívocos e incongruências em Gráficos de setores |
-
-
+| Data       | Unidade temática            | Habilidade              | Objeto de conhecimento               | Caixa de texto                                                                               |
+| ---------- | --------------------------- | ----------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------- |
+| 04/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Introdução aos conjuntos numéricos e identificação dos conjuntos N, Z, Q, I e R.             |
+| 05/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Classificação de números nos diferentes conjuntos numéricos.                                 |
+| 06/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Relações de inclusão entre os conjuntos numéricos.                                           |
+| 06/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Representação e identificação de números naturais, inteiros, racionais, irracionais e reais. |
+| 06/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Exercícios de classificação e representação dos números.                                     |
+| 11/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Comparação e ordenação de números reais.                                                     |
+| 12/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Aplicação dos conjuntos numéricos em situações-problema.                                     |
+| 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Revisão dos conjuntos numéricos.                                                             |
+| 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Resolução de exercícios sobre conjuntos numéricos.                                           |
+| 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Avaliação e consolidação dos conceitos estudados.                                            |
+| 19/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação de dízimas periódicas e sua representação decimal.                             |
+| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Transformação de frações em números decimais periódicos.                                     |
+| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação do período de uma dízima periódica.                                            |
+| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Cálculo da fração geratriz de dízimas periódicas simples.                                    |
+| 25/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Determinação da fração geratriz de dízimas periódicas.                                       |
+| 26/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios envolvendo fração geratriz.                                          |
+| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas simples.                                               |
+| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas compostas.                                             |
+| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Aplicação da fração geratriz em situações-problema.                                          |
+| 04/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Revisão de dízimas periódicas e fração geratriz.                                             |
+| 05/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios de fixação.                                                          |
+| 06/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Exercícios envolvendo conversão entre frações e dízimas.                                     |
+| 06/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Avaliação e consolidação dos conceitos.                                                      |
+| 06/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Introdução à notação científica e sua finalidade.                                            |
+| 11/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Representação de números grandes em notação científica.                                      |
+| 12/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Representação de números pequenos em notação científica.                                     |
+| 13/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Conversão entre forma decimal e notação científica.                                          |
+| 13/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Operações com números em notação científica.                                                 |
+| 13/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.                  | Introdução às expressões algébricas e identificação de seus elementos.                       |
+| 18/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.                  | Representação de situações-problema por expressões algébricas.                               |
+| 19/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.                  | Simplificação e cálculo de expressões algébricas.                                            |
+| 20/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.            | Identificação do fator comum em expressões algébricas.                                       |
+| 20/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.            | Fatoração por evidência e agrupamento.                                                       |
+| 20/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Construção e compreensão do quadrado da soma.                                                |
+| 25/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Desenvolvimento da expressão do quadrado da soma.                                            |
+| 26/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Aplicação do quadrado da soma na fatoração.                                                  |
+| 27/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Resolução de exercícios sobre quadrado da soma.                                              |
+| 27/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Identificação de padrões algébricos.                                                         |
+| 27/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.          | Revisão e aplicação em situações-problema.                                                   |
+| 01/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Introdução aos Produtos notáveis..                                                            |
+| 02/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Quadrado da soma e quadrado da diferença.                                                    |
+| 08/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Produto da soma pela diferença.                                                              |
+| 09/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Desenvolvimento e reconhecimento de Produtos notáveis..                                       |
+| 10/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Aplicação dos Produtos notáveis..                                                             |
+| 10/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Resolução de exercícios.                                                                     |
+| 10/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Simplificação de expressões utilizando Produtos notáveis..                                    |
+| 15/04 | Álgebra                     | (EJA7MA05SMAO) | Produtos notáveis.                    | Revisão e consolidação dos Produtos notáveis..                                                |
+| 16/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Introdução às Equações do 1º grau..                                                           |
+| 17/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Identificação de incógnita, termos e membros da equação.                                     |
+| 17/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Princípio da igualdade na resolução de equações.                                             |
+| 17/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Resolução de equações simples.                                                               |
+| 22/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Equações com termos nos dois membros.                                                        |
+| 23/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Equações envolvendo parênteses.                                                              |
+| 24/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Resolução de equações com aplicação da propriedade distributiva.                             |
+| 24/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Resolução de situações-problema.                                                             |
+| 24/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Exercícios de fixação.                                                                       |
+| 29/04 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Revisão e resolução de problemas envolvendo equações.                                        |
+| 06/05 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Aplicação das Equações do 1º grau. em situações cotidianas.                                   |
+| 07/05 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Resolução de exercícios contextualizados.                                                    |
+| 08/05 | Álgebra                     | (EF08MA08)(EJA7MA06SMAO) | Equações do 1º grau.                  | Revisão e consolidação das Equações do 1º grau..                                              |
+| 08/05 | Geometria                   | (EF08MA14)(EJA7MA07SMAO) | Congruência de triângulos            | Conceito de congruência e identificação de triângulos congruentes.                           |
+| 08/05 | Geometria                   | (EF08MA14)(EJA7MA07SMAO) | Congruência de triângulos            | Critérios de congruência de triângulos.                                                      |
+| 13/05 | Geometria                   | (EF08MA14)(EJA7MA07SMAO) | Congruência de triângulos            | Aplicação dos casos de congruência.                                                          |
+| 14/05 | Geometria                   | (EF08MA14)(EJA7MA07SMAO) | Congruência de triângulos            | Resolução de problemas envolvendo congruência.                                               |
+| 15/05 | Geometria                   | (EF08MA14)(EJA7MA07SMAO) | Congruência de triângulos            | Exercícios e revisão de congruência.                                                         |
+| 15/05 | Geometria                   | (EF08MA17)(EJA7MA08SMAO) | Congruência.Mediatriz e bissetriz de triângulos. | Conceito e construção da mediatriz.                                                          |
+| 15/05 | Geometria                   | (EF08MA17)(EJA7MA08SMAO) | Congruência.Mediatriz e bissetriz de triângulos. | Conceito e construção da bissetriz.                                                          |
+| 20/05 | Geometria                   | (EF08MA17)(EJA7MA08SMAO) | Congruência.Mediatriz e bissetriz de triângulos. | Aplicação da mediatriz em triângulos.                                                        |
+| 21/05 | Geometria                   | (EF08MA17)(EJA7MA08SMAO) | Congruência.Mediatriz e bissetriz de triângulos. | Aplicação da bissetriz em triângulos.                                                        |
+| 22/05 | Geometria                   | (EF08MA17)(EJA7MA08SMAO) | Congruência.Mediatriz e bissetriz de triângulos. | Exercícios sobre mediatriz e bissetriz.                                                      |
+| 22/05 | Geometria                   | (EF08MA18)(EJA7MA09SMAO) | Transformações geométricas: simetrias de translação, reflexão e rotação           | Introdução às Transformações geométricas: simetrias de translação, reflexão e rotação.                                                    |
+| 22/05 | Geometria                   | (EF08MA18)(EJA7MA09SMAO) | Transformações geométricas: simetrias de translação, reflexão e rotação           | Identificação de translação, rotação e reflexão.                                             |
+| 27/05 | Geometria                   | (EF08MA18)(EJA7MA09SMAO) | Transformações geométricas: simetrias de translação, reflexão e rotação           | Aplicação da reflexão em figuras geométricas.                                                |
+| 28/05 | Geometria                   | (EF08MA18)(EJA7MA09SMAO) | Transformações geométricas: simetrias de translação, reflexão e rotação           | Aplicação de rotação e translação.                                                           |
+| 29/05 | Geometria                   | (EF08MA18)(EJA7MA09SMAO) | Transformações geométricas: simetrias de translação, reflexão e rotação           | Resolução de atividades sobre Transformações geométricas: simetrias de translação, reflexão e rotação.                                    |
+| 29/05 | Grandezas e medidas         | (EF08MA19)(EJA7MA10SMAO) | Área do círculo.Área do círculo.Comprimento da circunferência..                      | Conceito de Área do círculo.Área do círculo.Comprimento da circunferência.. e identificação de seus elementos.                               |
+| 29/05 | Grandezas e medidas         | (EF08MA19)(EJA7MA10SMAO) | Área do círculo.Área do círculo.Comprimento da circunferência..                      | Cálculo da Área do círculo.Área do círculo.Comprimento da circunferência.. utilizando π.                                                     |
+| 03/06 | Grandezas e medidas         | (EF08MA19)(EJA7MA10SMAO) | Área do círculo.Área do círculo.Comprimento da circunferência..                      | Resolução de problemas envolvendo Área do círculo.Área do círculo.Comprimento da circunferência...                                           |
+| 10/06 | Grandezas e medidas         | (EF08MA19)(EJA7MA10SMAO) | Área do círculo.Área do círculo.Comprimento da circunferência..                      | Aplicação da fórmula da área em situações cotidianas.                                        |
+| 11/06 | Grandezas e medidas         | (EF08MA19)(EJA7MA10SMAO) | Área do círculo.Área do círculo.Comprimento da circunferência..                      | Exercícios de fixação sobre Área do círculo.Área do círculo.Comprimento da circunferência...                                                 |
+| 12/06 | Grandezas e medidas         | (EF08MA19)(EJA7MA11SMAO) | Área do círculo.Comprimento da circunferência.        | Conceito de Área do círculo.Comprimento da circunferência..                                                   |
+| 12/06 | Grandezas e medidas         | (EF08MA19)(EJA7MA11SMAO) | Área do círculo.Comprimento da circunferência.        | Cálculo do Área do círculo.Comprimento da circunferência. utilizando π.                                       |
+| 12/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Introdução à média aritmética, mediana e moda.                                               |
+| 17/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Cálculo da média aritmética.                                                                 |
+| 18/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Identificação e cálculo da mediana.                                                          |
+| 19/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Identificação e cálculo da moda.                                                             |
+| 19/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Comparação entre média, mediana e moda.                                                      |
+| 19/06 | Probabilidade e estatística | (EF08MA25)(EJA7MA12SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados         | Aplicação das medidas de tendência central em situações-problema.                            |
+| 19/06 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Identificação dos principais tipos de gráficos.                                              |
+| 24/06 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Leitura e interpretação de gráficos.                                                         |
+| 08/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Análise de gráficos de barras e colunas.                                                     |
+| 09/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Análise de gráficos de setores e linhas.                                                     |
+| 10/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Comparação e interpretação de diferentes representações gráficas.                            |
+| 10/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Identificação de informações explícitas em gráficos.                                         |
+| 10/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Resolução de problemas a partir de dados gráficos.                                           |
+| 13/07 | Probabilidade e estatística | (EF08MA23)(EJA7MA13SMAO) | Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados           | Revisão e consolidação da leitura e interpretação de gráficos.                               |
