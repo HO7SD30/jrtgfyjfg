@@ -20,7 +20,7 @@
 | 16/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
 | 16/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
 | 18/03 | Números          | (EF07MA02) | Porcentagem            | Cálculo de porcentagens e de acréscimos e decréscimos simples.                              |
-| 19/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1 grau    | Cálculo do termo desconhecido.                                                  |
+| 19/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Cálculo do termo desconhecido.                                                  |
 | 20/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Cálculo do termo desconhecido.                                                  |
 | 23/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
 | 23/03 | Álgebra          | (EF07MA18) | Equações Polinomiais do 1º grau    | Em busca do termo desconhecido II.                                              |
