@@ -1,32 +1,159 @@
 {
   "itens": [
-    { "codigo": 24227, "nome": "Números", "pai": null },
-    { "codigo": 24221, "nome": "Álgebra", "pai": null },
-    { "codigo": 24223, "nome": "Geometria", "pai": null },
-    { "codigo": 24225, "nome": "Grandezas e Medidas", "pai": null },
-    { "codigo": 24229, "nome": "Probabilidade e estatistica", "pai": null },
-
-    { "codigo": 74268, "nome": "(EF07MA02)", "pai": 24227 },
-    { "codigo": 74272, "nome": "(EF07MA03)", "pai": 24227 },
-    { "codigo": 74276, "nome": "(EF07MA04)", "pai": 24227 },
-    { "codigo": 74283, "nome": "(EF07MA06)", "pai": 24227 },
-    { "codigo": 74300, "nome": "(EF07MA18)", "pai": 24221 },
-    { "codigo": 74308, "nome": "(EF07MA23)", "pai": 24223 },
-    { "codigo": 74316, "nome": "(EF07MA27)", "pai": 24223 },
-    { "codigo": 74295, "nome": "(EF07MA17)", "pai": 24225 },
-    { "codigo": 74323, "nome": "(EF07MA32)", "pai": 24225 },
-    { "codigo": 74332, "nome": "(EF07MA37)", "pai": 24229 },
-
-    { "codigo": 121632, "nome": "Porcentagem", "pai": 74268 },
-    { "codigo": 120641, "nome": "Números inteiros", "pai": 74272 },
-    { "codigo": 120643, "nome": "Números inteiros", "pai": 74276 },
-    { "codigo": 120690, "nome": "Números Racionais", "pai": 74283 },
-    { "codigo": 118427, "nome": "Equações polinomiais do 1º grau", "pai": 74300 },
-    { "codigo": 116195, "nome": "Ângulos formados por retas paralelas intersectadas por uma transversal", "pai": 74308 },
-    { "codigo": 121557, "nome": "Polígonos Regulares", "pai": 74316 },
-    { "codigo": 119543, "nome": "Grandezas diretamente e inversamente proporcionais", "pai": 74295 },
-    { "codigo": 119545, "nome": "Áreas de figuras planas", "pai": 74323 },
-    { "codigo": 119535, "nome": "Gráficos de setores", "pai": 74332 }
+    {
+      "codigo": 24293,
+      "nome": "Álgebra",
+      "pai": null
+    },
+    {
+      "codigo": 74726,
+      "nome": "(EF08MA06)(EJA7MA04SMAO) Resolver problemas envolvendo o valor numérico de uma expressão algébrica.",
+      "pai": 24293
+    },
+    {
+      "codigo": 119035,
+      "nome": "Expressões algébricas.",
+      "pai": 74726
+    },
+    {
+      "codigo": 74732,
+      "nome": "(EF08MA08)(EJA7MA06SMAO) Resolver problemas envolvendo equações do 1º grau.",
+      "pai": 24293
+    },
+    {
+      "codigo": 118423,
+      "nome": "Equações do 1º grau.",
+      "pai": 74732
+    },
+    {
+      "codigo": 78003,
+      "nome": "(EJA7MA05SMAO) Efetuar cálculo envolvendo produtos notáveis.",
+      "pai": 24293
+    },
+    {
+      "codigo": 122309,
+      "nome": "Produtos notáveis.",
+      "pai": 78003
+    },
+    {
+      "codigo": 24295,
+      "nome": "Geometria",
+      "pai": null
+    },
+    {
+      "codigo": 74743,
+      "nome": "(EF08MA14)(EJA7MA07SMAO) Reconhecer os casos de congruência de triângulos.",
+      "pai": 24295
+    },
+    {
+      "codigo": 117033,
+      "nome": "Congruência.Mediatriz e bissetriz de triângulos.",
+      "pai": 74743
+    },
+    {
+      "codigo": 74750,
+      "nome": "(EF08MA17)(EJA7MA08SMAO) Resolver problemas envolvendo os conceitos de mediatriz e bissetriz dos triângulos.",
+      "pai": 24295
+    },
+    {
+      "codigo": 117035,
+      "nome": "Congruência.Mediatriz e bissetriz de triângulos.",
+      "pai": 74750
+    },
+    {
+      "codigo": 74755,
+      "nome": "(EF08MA18)(EJA7MA09SMAO) Reconhecer transformações geométricas.",
+      "pai": 24295
+    },
+    {
+      "codigo": 123305,
+      "nome": "Transformações geométricas: simetrias de translação, reflexão e rotação",
+      "pai": 74755
+    },
+    {
+      "codigo": 24297,
+      "nome": "Grandezas e Medidas",
+      "pai": null
+    },
+    {
+      "codigo": 74758,
+      "nome": "(EF08MA19)(EJA7MA10SMAO) Calcular e resolver problemas envolvendo a área do círculo.",
+      "pai": 24297
+    },
+    {
+      "codigo": 116277,
+      "nome": "Área do círculo.Comprimento da circunferência.",
+      "pai": 74758
+    },
+    {
+      "codigo": 74762,
+      "nome": "(EF08MA19)(EJA7MA11SMAO) Calcular e resolver problemas envolvendo o comprimento da circunferência.",
+      "pai": 24297
+    },
+    {
+      "codigo": 116279,
+      "nome": "Área do círculo.Comprimento da circunferência.",
+      "pai": 74762
+    },
+    {
+      "codigo": 24299,
+      "nome": "Números",
+      "pai": null
+    },
+    {
+      "codigo": 74714,
+      "nome": "(EF08MA01)(EJA7MA03SMAO) Representar números através de notação científica.",
+      "pai": 24299
+    },
+    {
+      "codigo": 120599,
+      "nome": "Notação científica.",
+      "pai": 74714
+    },
+    {
+      "codigo": 74721,
+      "nome": "(EF08MA05)(EJA7MA02SMAO) Reconhecer uma fração geratriz para uma dízima periódica.",
+      "pai": 24299
+    },
+    {
+      "codigo": 119401,
+      "nome": "Fração geratriz.Dízima periódica.",
+      "pai": 74721
+    },
+    {
+      "codigo": 77999,
+      "nome": "(EJA7MA01SMAO) Reconhecer os diferentes conjuntos numéricos.",
+      "pai": 24299
+    },
+    {
+      "codigo": 117125,
+      "nome": "Conjuntos numéricos.",
+      "pai": 77999
+    },
+    {
+      "codigo": 24301,
+      "nome": "Probabilidade e estatística",
+      "pai": null
+    },
+    {
+      "codigo": 74769,
+      "nome": "(EF08MA23)(EJA7MA13SMAO) Analisar informações apresentadas em diferentes tipos de gráficos.",
+      "pai": 24301
+    },
+    {
+      "codigo": 120312,
+      "nome": "Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados",
+      "pai": 74769
+    },
+    {
+      "codigo": 74775,
+      "nome": "(EF08MA25)(EJA7MA12SMAO) Calcular e resolver problemas envolvendo as medidas de tendência central.",
+      "pai": 24301
+    },
+    {
+      "codigo": 120314,
+      "nome": "Medidas de tendência central e de dispersão. Gráficos de barras, colunas, linhas ou setores e seus elementos constitutivos e adequação para determinado conjunto de dados",
+      "pai": 74775
+    }
   ]
 }
-
