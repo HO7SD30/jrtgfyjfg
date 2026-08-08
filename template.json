@@ -21,7 +21,7 @@
     { "codigo": 120641, "nome": "Números inteiros", "pai": 74272 },
     { "codigo": 120643, "nome": "Números inteiros", "pai": 74276 },
     { "codigo": 120690, "nome": "Números Racionais", "pai": 74283 },
-    { "codigo": 118427, "nome": "Equações polinomiais do 1 grau", "pai": 74300 },
+    { "codigo": 118427, "nome": "Equações polinomiais do 1º grau", "pai": 74300 },
     { "codigo": 116195, "nome": "Ângulos formados por retas paralelas intersectadas por uma transversal", "pai": 74308 },
     { "codigo": 121557, "nome": "Polígonos Regulares", "pai": 74316 },
     { "codigo": 119543, "nome": "Grandezas diretamente e inversamente proporcionais", "pai": 74295 },
