@@ -10,19 +10,19 @@
 | 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Revisão dos conjuntos numéricos.                                                             |
 | 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Resolução de exercícios sobre conjuntos numéricos.                                           |
 | 13/02 | Números                     | (EJA7MA01SMAO)            | Conjuntos numéricos.  | Avaliação e consolidação dos conceitos estudados.                                            |
-| 19/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação de dízimas periódicas e sua representação decimal.                             |
-| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Transformação de frações em números decimais periódicos.                                     |
-| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação do período de uma dízima periódica.                                            |
-| 20/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Cálculo da fração geratriz de dízimas periódicas simples.                                    |
-| 25/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Determinação da fração geratriz de dízimas periódicas.                                       |
-| 26/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios envolvendo fração geratriz.                                          |
-| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas simples.                                               |
-| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas compostas.                                             |
-| 27/02 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Aplicação da fração geratriz em situações-problema.                                          |
-| 04/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Revisão de dízimas periódicas e fração geratriz.                                             |
-| 05/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios de fixação.                                                          |
-| 06/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Exercícios envolvendo conversão entre frações e dízimas.                                     |
-| 06/03 | Números                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Avaliação e consolidação dos conceitos.                                                      |
+| 19/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação de dízimas periódicas e sua representação decimal.                             |
+| 20/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Transformação de frações em números decimais periódicos.                                     |
+| 20/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Identificação do período de uma dízima periódica.                                            |
+| 20/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Cálculo da fração geratriz de dízimas periódicas simples.                                    |
+| 25/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Determinação da fração geratriz de dízimas periódicas.                                       |
+| 26/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios envolvendo fração geratriz.                                          |
+| 27/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas simples.                                               |
+| 27/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Fração geratriz de dízimas periódicas compostas.                                             |
+| 27/02 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Aplicação da fração geratriz em situações-problema.                                          |
+| 04/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Revisão de dízimas periódicas e fração geratriz.                                             |
+| 05/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Resolução de exercícios de fixação.                                                          |
+| 06/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Exercícios envolvendo conversão entre frações e dízimas.                                     |
+| 06/03 | Álgebra                     | (EF08MA06)(EJA7MA04SMAO) | Expressões algébricas.  | Avaliação e consolidação dos conceitos.                                                      |
 | 06/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Introdução à notação científica e sua finalidade.                                            |
 | 11/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Representação de números grandes em notação científica.                                      |
 | 12/03 | Números                     | (EF08MA01)(EJA7MA03SMAO) | Notação científica.                   | Representação de números pequenos em notação científica.                                     |
