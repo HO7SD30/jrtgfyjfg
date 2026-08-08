@@ -7,7 +7,7 @@
     },
     {
       "codigo": 74726,
-      "nome": "(EF08MA06)(EJA7MA04SMAO) Resolver problemas envolvendo o valor numérico de uma expressão algébrica.",
+      "nome": "(EF08MA06)(EJA7MA04SMAO)",
       "pai": 24293
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "codigo": 74732,
-      "nome": "(EF08MA08)(EJA7MA06SMAO) Resolver problemas envolvendo equações do 1º grau.",
+      "nome": "(EF08MA08)(EJA7MA06SMAO)",
       "pai": 24293
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "codigo": 78003,
-      "nome": "(EJA7MA05SMAO) Efetuar cálculo envolvendo produtos notáveis.",
+      "nome": "(EJA7MA05SMAO)",
       "pai": 24293
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "codigo": 74743,
-      "nome": "(EF08MA14)(EJA7MA07SMAO) Reconhecer os casos de congruência de triângulos.",
+      "nome": "(EF08MA14)(EJA7MA07SMAO)",
       "pai": 24295
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "codigo": 74750,
-      "nome": "(EF08MA17)(EJA7MA08SMAO) Resolver problemas envolvendo os conceitos de mediatriz e bissetriz dos triângulos.",
+      "nome": "(EF08MA17)(EJA7MA08SMAO)",
       "pai": 24295
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "codigo": 74755,
-      "nome": "(EF08MA18)(EJA7MA09SMAO) Reconhecer transformações geométricas.",
+      "nome": "(EF08MA18)(EJA7MA09SMAO)",
       "pai": 24295
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "codigo": 74758,
-      "nome": "(EF08MA19)(EJA7MA10SMAO) Calcular e resolver problemas envolvendo a área do círculo.",
+      "nome": "(EF08MA19)(EJA7MA10SMAO)",
       "pai": 24297
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "codigo": 74762,
-      "nome": "(EF08MA19)(EJA7MA11SMAO) Calcular e resolver problemas envolvendo o comprimento da circunferência.",
+      "nome": "(EF08MA19)(EJA7MA11SMAO)",
       "pai": 24297
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "codigo": 74714,
-      "nome": "(EF08MA01)(EJA7MA03SMAO) Representar números através de notação científica.",
+      "nome": "(EF08MA01)(EJA7MA03SMAO)",
       "pai": 24299
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "codigo": 74721,
-      "nome": "(EF08MA05)(EJA7MA02SMAO) Reconhecer uma fração geratriz para uma dízima periódica.",
+      "nome": "(EF08MA05)(EJA7MA02SMAO)",
       "pai": 24299
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "codigo": 77999,
-      "nome": "(EJA7MA01SMAO) Reconhecer os diferentes conjuntos numéricos.",
+      "nome": "(EJA7MA01SMAO)",
       "pai": 24299
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "codigo": 74769,
-      "nome": "(EF08MA23)(EJA7MA13SMAO) Analisar informações apresentadas em diferentes tipos de gráficos.",
+      "nome": "(EF08MA23)(EJA7MA13SMAO)",
       "pai": 24301
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "codigo": 74775,
-      "nome": "(EF08MA25)(EJA7MA12SMAO) Calcular e resolver problemas envolvendo as medidas de tendência central.",
+      "nome": "(EF08MA25)(EJA7MA12SMAO)",
       "pai": 24301
     },
     {
